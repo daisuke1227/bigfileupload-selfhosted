@@ -4,7 +4,7 @@ import path from 'path';
 import os from 'os';
 import { fileURLToPath } from 'url';
 
-const PORT = 3091;
+const PORT = 8080;
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const UPLOAD_DIR = path.join(__dirname, 'uploads');
