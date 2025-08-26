@@ -47,14 +47,14 @@ app.listen(PORT, '0.0.0.0', () => {
     Bigfileupload Vencord PLugin Selfhosted
     -------------------------------------------
     URL: http://${ip}:${PORT}
-    Request URL: http://${ip}:${PORT}/direct
 
-        Bigfileupload Settings
-        
+        Bigfileupload Settings:
+        -----------------------
+      - Request URL: http://${ip}:${PORT}/direct
       - File Form Name: ${FILE_FORM_NAME}
       - Response Type:  JSON
       - URL JSON Path:  uri
-
+        -----------------------
     Watching for uploads...
     -------------------------------------------
     `);
