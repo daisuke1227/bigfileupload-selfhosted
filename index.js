@@ -44,11 +44,11 @@ app.listen(PORT, '0.0.0.0', () => {
     const ip = getLocalIpAddress();
     console.log(`
     -------------------------------------------
-    Bigfileupload Vencord PLugin Selfhosted
+    bigFileUpload Vencord PLugin Selfhosted
     -------------------------------------------
     URL: http://${ip}:${PORT}
 
-        Bigfileupload Settings:
+        bigFileUpload Settings:
         -----------------------
       - Request URL: http://${ip}:${PORT}/direct
       - File Form Name: ${FILE_FORM_NAME}

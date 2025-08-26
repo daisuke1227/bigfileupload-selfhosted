@@ -1,6 +1,6 @@
 # How to Install
 
-Visit the bigfileupload repo and get vencord dev [bigfileupload](https://github.com/ScattrdBlade/bigFileUpload)
+Visit the bigFileUpload repo and get vencord dev [bigFileUpload](https://github.com/ScattrdBlade/bigFileUpload)
 
 ## 1. Install NodeJS Windows/Linux
 
